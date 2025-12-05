@@ -42,5 +42,5 @@ Using commands suggested in the prompt you can test the 3 characteristics
 mentioned in the introduction section.
 
 ---
- Author: Lan Kostrikin
+ Author: Verizon Cloud Engineering micro-internship
  Date:   20 Feb 2023
